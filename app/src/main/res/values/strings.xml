@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Foods Diary</string>
+
+    <string name="foods_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="composition">Komposisi</string>
+    <string name="harga_makanan">harga makanan</string>
+    <string name="nama_makanan">nama makanan</string>
+    <string name="pembuat">Leo Alexander</string>
+    <string name="email">leoalex949@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Nasi Goreng</item>
+        <item>Sushi</item>
+        <item>Pizza Margherita</item>
+        <item>Burger</item>
+        <item>Nasi Padang</item>
+        <item>Pasta carbonara</item>
+        <item>Sate Ayam</item>
+        <item>Salad Caesar</item>
+        <item>Tacos</item>
+        <item>Soto Ayam</item>
+    </string-array>
+
+    <string-array name="data_description_short">
+        <item>Nasi goreng adalah hidangan nasi yang digoreng bersama dengan bumbu-bumbu seperti bawang putih, bawang merah, kecap manis, dan cabai. Biasanya disajikan dengan telur dadar, irisan mentimun, dan kerupuk.</item>
+        <item>Sushi adalah hidangan Jepang yang terdiri dari nasi yang dibentuk menjadi gumpalan kecil, disajikan dengan berbagai bahan seperti potongan ikan segar, telur, atau sayuran, dan dilengkapi dengan saus kedelai dan wasabi.</item>
+        <item>Pizza Margherita adalah jenis pizza yang disajikan dengan saus tomat, mozzarella, daun basil segar, dan sedikit minyak zaitun. Ini adalah salah satu varian pizza paling klasik dan populer.</item>
+        <item>Burger adalah roti berisi daging panggang, biasanya disajikan dengan berbagai tambahan seperti keju, selada, tomat, bawang, dan saus. Ini adalah salah satu makanan cepat saji yang paling terkenal di seluruh dunia.</item>
+        <item>Nasi Padang adalah hidangan khas dari Sumatra Barat, Indonesia. Biasanya terdiri dari nasi putih yang disajikan dengan berbagai hidangan sampingan seperti rendang, ayam goreng, sambal lado, gulai telur, dan sayuran.</item>
+        <item>Pasta carbonara adalah hidangan pasta Italia yang terbuat dari spaghetti atau fettuccine yang dicampur dengan saus yang terbuat dari telur, keju parmesan, pancetta, dan lada hitam.</item>
+        <item>Sate ayam adalah hidangan Indonesia yang terdiri dari potongan-potongan daging ayam yang ditusuk dengan tusukan bambu, kemudian dipanggang atau dibakar dan disajikan dengan saus kacang atau saus sate.</item>
+        <item>Salad Caesar adalah salad yang terdiri dari daun romaine, crouton, parmesan, dan saus Caesar yang terbuat dari telur, minyak zaitun, jus lemon, anchovy, dan bawang putih.</item>
+        <item>Tacos adalah hidangan Meksiko yang terdiri dari tortilla jagung atau tepung gandum yang diisi dengan daging panggang atau direbus, serta berbagai tambahan seperti selada, tomat, keju, dan saus salsa.</item>
+        <item>Soto ayam adalah sup tradisional Indonesia yang terdiri dari kaldu ayam yang kaya rasa, potongan daging ayam, mie, telur rebus, tauge, bawang goreng, dan daun seledri. Biasanya disajikan dengan nasi putih.</item>
+    </string-array>
+
+    <string-array name="data_description_long">
+        <!-- deskripsi panjang nasi goreng -->
+        <item> Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin, atau mentega. Biasanya ditambah dengan kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk. Ada pula nasi goreng jenis lain yang dibuat bersama dengan ikan asin yang juga populer di seluruh Indonesia.\n\n
+        Nasi goreng juga dikenal sebagai masakan nasional Indonesia. Nasi goreng banyak ditemukan di warung tepi jalan, gerobak penjaja keliling, hingga rumah makan dan meja prasmanan dalam pesta pernikahan di Indonesia.\n\n
+        Pada tahun 2011, sebuah pemungutan suara di Internet yang diadakan oleh CNN International dan diikuti oleh 35.000 orang menempatkan nasi goreng pada peringkat 48 dalam daftar 50 Makanan Terlezat di Dunia setelah nasi bebek hitam khas Madura.</item>
+        <!-- deskripsi panjang sushi -->
+        <item> Sushi (Jepang: 鮨, 鮓, 寿司, すし; Romaji: sushi) adalah makanan Jepang yang terdiri dari nasi yang dibentuk bersama lauk (neta) berupa makanan laut, daging, sayuran bakar atau sudah dimasak. Nasi sushi mempunyai rasa masam yang lembut karena dibumbui campuran cuka beras, garam, dan gula.\n\n
+        Asal usul kata sushi (susyi) adalah kata sifat untuk rasa asin yang ditulis dengan huruf kanji sushi (酸し). Pada awalnya, sushi yang ditulis dengan huruf kanji 鮓 merupakan istilah untuk salah satu jenis pengawetan ikan disebut gyoshō (魚醤) yang membaluri bebek dengan garam dapur, bubuk ragi (麹, koji) atau ampas sake (糟, kasu). Penulisan sushi menggunakan huruf kanji 寿司 yang dimulai pada zaman Edo periode pertengahan merupakan cara penulisan ateji (menulis dengan huruf kanji lain yang berbunyi yang sama).</item>
+        <!-- deskripsi panjang pizza margherita -->
+        <item> Pizza Margherita, atau pizza Margherita, adalah pizza khas Napoli, berbentuk bulat dengan pinggiran yang agak mengembung (cornicione) dan dihias dengan tomat yang dihancurkan secara manual, mozzarella (mozzarella kerbau atau fior di latte), daun basil segar, dan minyak zaitun extra virgin. Adonan dibuat dengan mencampur air, garam, dan ragi (ragi asam, ragi segar, atau ragi kering) dengan tepung (00 atau 0).\n\n
+        Secara tradisional, adonan ditarik oleh pizzaiolo dengan gerakan yang keluar dari tengah, menekan dengan jari-jari kedua tangan pada bola adonan, dan membaliknya beberapa kali, membentuknya menjadi cakram. Setelah itu, pizza dihias dan dipanggang di dalam oven, yang secara tradisional terbuat dari bata dan dipanaskan dengan kayu (oven listrik atau gas juga digunakan saat ini). Pizza Margherita biasanya disajikan panas di atas piring atau dilipat menjadi empat dan dibungkus dengan kertas (pizza a portafoglio atau a libretto).</item>
+        <!-- deskripsi panjang burger -->
+        <item> Hamburger atau burger adalah sejenis roti berbentuk bundar yang diiris dua, dan di tengahnya diisi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombai. Sebagai sausnya, hamburger diberi berbagai jenis saus seperti mayones, saus tomat dan sambal, serta moster. Beberapa varian hamburger juga dilengkapi dengan keju dan asinan. Hamburger merupakan makanan siap saji yang populer di Amerika Serikat.</item>
+        <!-- deskripsi panjang nasi padang -->
+        <item> Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. Kata padang merujuk pada ibu kota Provinsi Sumatera Barat, Padang. Nasi padang adalah sebuah hidangan yang disajikan secara lengkap secara prasmanan dengan daging, ikan, sayuran, dan makanan pedas yang dimakan dengan nasi putih. Nasi padang merupakan komoditas ekspor paling terkenal dan masyarakat Minangkabau mempunyai kontribusi yang besar untuk masakan Indonesia. Karena ekslusivitas di setiap daerah, istilah nasi Padang tidak digunakan di Sumatera Barat dan kata ini merujuk pada nasi ramas yang berasal dari bahasa Minang artinya nasi bungkus; sedangkan istilah tersebut hanya digunakan di luar Sumatera Barat.\n\n
+        Restoran nasi padang biasanya ditandai dengan bangunan bergaya Rumah Gadang dilengkapi dengan gaya etalasenya yang khas. Etalase nasi padang biasanya terdiri dari piring dan mangkuk yang ditumpuk sedemikian rupa, ditata dan diisi dengan berbagai hidangan. Restoran padang, terutama yang kecil-menengah, biasanya memakai nama-nama dalam bahasa Minang.\n
+        Nasi padang yang disajikan di restoran padang mudah ditemukan di berbagai daerah di Indonesia, seperti Sumatera, Jawa, Kalimantan, Sulawesi, Nusa Tenggara, Kepulauan Maluku, hingga Papua. Restoran nasi padang juga merambah ke negara-negara tetangga, seperti Malaysia, Singapura, dan Australia karena masyarakat Minangkabau memiliki kebiasaan merantau (imigrasi), memberikan kontribusi terhadap penyebaran perantau Minang melampaui batas kampung halaman mereka di Sumatera Barat. Berdasarkan CNN Travel, nasi padang terdaftar sebagai salah satu dari 40 makanan yang masyarakat Singapura tidak bisa hidup tanpanya.</item>
+        <!-- deskripsi panjang pasta carbonara -->
+        <item> Spaghetti alla carbonara atau carbonara adalah masakan Italia yang berupa spaghetti yang dimasak dengan saus telur, keju dan daging.[1] Carbonara diciptakan dari resep rakyat pedesaan Italia tengah yang berciri sederhana dan apa adanya.[1] Setiap orang mempunyai cara tersendiri dalam memasak carbonara namun prinsip utama adalah penggunaan bahan berkualitas terbaik.[1] Penambahan krim untuk carbonara adalah salah kaprah dan banyak orang Italia masih memperdebatkan daging yang digunakan, apakah guanciale atau pancetta. Bahan utama memasak carbonara adalah pasta, telur, pecorino dan lada hitam.</item>
+        <!-- deskripsi panjang sate ayam -->
+        <item> Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap. Sate ini biasanya disajikan bersama dengan lontong atau nasi sate ayam adalah makanan makanan kaha madura jawa timur</item>
+        <!-- deskripsi panjang salad caesar -->
+        <item> Selada Caesar adalah hidangan dari selada dan roti panggang dipotong kecil, dan ditambahkan keju parmesan, jus lemon, minyak zaitun, telur, saus worcestershire, bawang putih, dan lada hitam. Berbeda dengan kepercayaan banyak orang, penamaan selada ini tidak ada hubungannya dengan Julius Caesar.</item>
+        <!-- deskripsi panjang tacos -->
+        <item> Taco adalah makanan khas Meksiko yang terdiri atas gulungan atau lipatan tortilla yang diisi dengan berbagai macam masakan di dalamnya.\n\n
+        Salah satu versi Taco terdapat di makanan khas Tex-Mex, yakni Breakfast Taco (Taco untuk Sarapan) yang terdiri atas telur dadar dan kombinasi kentang, sosis dan/atau daging babi asap (bacon).</item>
+        <!-- deskripsi panjang soto ayam -->
+        <item> Soto ayam adalah makanan khas Indonesia yang berupa sejenis sup ayam dengan kuah yang berwarna kekuningan. Warna kuning ini dikarenakan oleh kunyit yang digunakan sebagai bumbu. Soto ayam banyak ditemukan di daerah-daerah di Indonesia dan Singapura. Selain ayam bahan yang digunakan juga meliputi telur rebus, irisan kentang, daun seledri, serta bawang goreng. Terkadang soto juga disajikan dengan lontong atau nasi putih. Selain itu soto ayam juga sering dihidangkan dengan sambal, kerupuk dan koya (campuran tumbukan kerupuk dengan bawang putih).</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nasi_Goreng_Sosis.jpg/764px-Nasi_Goreng_Sosis.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/ed/Pizza_Margherita_in_Naples_2015.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/62/NCI_Visuals_Food_Hamburger.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/93/Nasi_padang.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Spaghetti_alla_Carbonara.jpg/1024px-Spaghetti_alla_Carbonara.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sate_ayam-1.JPG/1024px-Sate_ayam-1.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Caesar_salad_%282%29.jpg/1024px-Caesar_salad_%282%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a8/Mexico.Tacos.01.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Soto_ayam.JPG/800px-Soto_ayam.JPG</item>
+    </string-array>
+
+    <string-array name="data_food_price">
+        <item>Rp 15.000 - Rp 30.000</item>
+        <item>Rp 20.000 - Rp 100.000</item>
+        <item>Rp 30.000 - Rp 100.000</item>
+        <item>Rp 20.000 - Rp 50.000</item>
+        <item>Rp 30.000 - Rp 100.000</item>
+        <item>Rp 30.000 - Rp 100.000</item>
+        <item>Rp 10.000 - Rp 30.000</item>
+        <item>Rp 20.000 - Rp 50.000</item>
+        <item>Rp 20.000 - Rp 50.000</item>
+        <item>Rp 20.000 - Rp 50.000</item>
+    </string-array>
+
+    <string-array name="data_composition">
+        <item>
+         - Nasi\n
+        - Bumbu-bumbu seperti bawang putih, bawang merah, kecap manis, dan cabai\n
+        - Telur\n
+        - Mentimun\n
+        - Kerupuk
+        </item>
+        <item>
+         - Nasi sushi\n
+        - Ikan segar seperti salmon, tuna, atau ikan teri\n
+        - Rumput laut (nori)\n
+        - Wasabi\n
+        - Saus kedelai\n
+        - Bahan tambahan lain seperti mentimun, telur, atau sayuran
+        </item>
+        <item>
+         - Adonan pizza\n
+        - Saus tomat\n
+        - Keju mozzarella\n
+        - Daun basil segar\n
+        - Minyak zaitun
+        </item>
+        <item>
+         - Roti burger\n
+        - Daging panggang (biasanya sapi)\n
+        - Keju\n
+        - Selada\n
+        - Tomat\n
+        - Bawang\n
+        - Saus (seperti saus tomat, mayones, atau saus BBQ)
+        </item>
+        <item>
+         - Nasi putih\n
+        - Hidangan sampingan seperti rendang, ayam goreng, sambal lado, gulai telur, dan sayuran\n
+        - Telur\n
+        - Kerupuk
+        </item>
+        <item>
+         - Pasta (biasanya spaghetti atau fettuccine)\n
+        - Telur\n
+        - Keju parmesan\n
+        - Pancetta atau bacon\n
+        - Lada hitam
+        </item>
+        <item>
+         - Potongan daging ayam\n
+        - Tusuk sate\n
+        - Bumbu sate (biasanya terbuat dari kacang tanah, bawang, cabai, kecap manis, dan bumbu lainnya)
+        </item>
+        <item>
+         - Daun romaine\n
+        - Crouton\n
+        - Keju parmesan\n
+        - Saus Caesar (telur, minyak zaitun, jus lemon, anchovy, bawang putih)
+        </item>
+        <item>
+         - Tortilla jagung atau tepung gandum\n
+        - Daging panggang atau direbus (biasanya daging sapi atau ayam)\n
+        - Selada\n
+        - Tomat\n
+        - Keju\n
+        - Saus salsa
+        </item>
+        <item>
+         - Kaldu ayam\n
+        - Potongan daging ayam\n
+        - Mie\n
+        - Telur rebus\n
+        - Tauge\n
+        - Bawang goreng\n
+        - Daun seledri
+        </item>
+    </string-array>
+
+</resources>
